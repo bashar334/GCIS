@@ -1,3 +1,4 @@
 print("hello world")
 print("goodbye")
-priny("answer")
+print("answer")
+print("okey")
